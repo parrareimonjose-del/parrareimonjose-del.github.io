@@ -1,0 +1,6 @@
+3D pet model credits
+--------------------
+shiba.glb — "Shiba Inu" from the Ultimate Animated Animal Pack by Quaternius (https://quaternius.com).
+  License: CC0 1.0 Universal (public domain). Source: https://poly.pizza/m/y4wdQpg767
+  Modified for CuidaJuntos: unused clips removed, clips renamed, mesh quantized (gltf-transform).
+Attribution is not required by CC0; we credit the author anyway.
