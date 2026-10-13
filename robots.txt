@@ -4,4 +4,4 @@ Disallow: /admin
 Disallow: /e/
 Disallow: /unsubscribe
 
-Sitemap: https://cozy-tapioca-1c8ac7.netlify.app/sitemap.xml
+Sitemap: https://parrareimonjose-del.github.io/sitemap.xml
